@@ -38,4 +38,4 @@ Open your web browser and go to http://localhost:8080.
 - **Delete Users:** Remove users using the "Delete" button in the user list.
 
 ## Demo
-[Demo video]([video.mp4](https://github.com/keerti1924/User-CRUD-SpringBoot/blob/main/video.mp4))
+[Demo video](https://github.com/keerti1924/User-CRUD-SpringBoot/blob/main/video.mp4)
