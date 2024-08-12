@@ -1,4 +1,4 @@
-FROM maven:3.8.6-jdk-121 AS build
+FROM maven:3.8.6-jdk-21 AS build
 COPY . .
 RUN mvn clean package -DskipTests
 
