@@ -23,9 +23,12 @@ Welcome to the User CRUD Application repository! This project is a simple yet po
 
 ```bash
 git clone https://github.com/keerti1924/User-CRUD-SpringBoot.git
+```
 
-## Access the application
+## 🔗 Access the application
 Open your web browser and go to http://localhost:8080.
+
+
 
 ## 📋 Usage
 - **Create Users:** Navigate to the "Add User" section to create new users.
@@ -35,4 +38,4 @@ Open your web browser and go to http://localhost:8080.
 - **Delete Users:** Remove users using the "Delete" button in the user list.
 
 ## Demo
-[![Watch the video](video.mp4)]
+[Demo video](video.mp4)
